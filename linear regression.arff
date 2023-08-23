@@ -1,0 +1,10 @@
+@relation SampleRegressionDataset
+@attribute feature1 numeric
+@attribute feature2 numeric
+@attribute feature3 numeric
+@attribute target numeric
+@data
+1.2, 2.3, 3.1, 5.6
+2.0, 1.8, 2.5, 6.8
+3.5, 4.0, 2.2, 9.2
+2.8, 3.2, 1.9, 7.5
