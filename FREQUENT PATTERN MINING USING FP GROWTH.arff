@@ -1,0 +1,11 @@
+@relation AssociationRuleDataset
+
+@attribute Item1 {0, 1}
+@attribute Item2 {0, 1}
+@attribute Item3 {0, 1}
+@attribute ... {0, 1}  % Continue with Item attributes
+
+@data
+1,0,1,...  % Example transaction 1
+0,1,1,...  % Example transaction 2
+1,1,0,...  % Example transaction 3
