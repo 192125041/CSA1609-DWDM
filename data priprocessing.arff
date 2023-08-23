@@ -1,0 +1,4 @@
+CustomerID,Age,Income,Gender,Purchase
+1,25,50000,Male,Yes
+2,30,60000,Female,No
+3,22,45000,Male,Yes
