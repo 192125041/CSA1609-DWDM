@@ -1,0 +1,12 @@
+@relation SampleDataset
+
+@attribute feature1 numeric
+@attribute feature2 numeric
+@attribute feature3 numeric
+@attribute class {ClassA, ClassB}
+
+@data
+1.2, 2.3, 3.1, ClassA
+2.0, 1.8, 2.5, ClassB
+3.5, 4.0, 2.2, ClassA
+2.8, 3.2, 1.9, ClassB
