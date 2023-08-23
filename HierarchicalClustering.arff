@@ -1,0 +1,12 @@
+@relation HierarchicalClustering
+
+@attribute income numeric
+@attribute credit_score numeric
+@attribute note_paid {0, 1}
+@attribute cluster numeric
+
+@data
+50050.4871135873,702.2322495075,0,0
+54672.0999350138,742.6771265512,0,1
+60731.9045429448,724.9782264683,1,0
+46327.9383750906,706.4509095623,0,0
